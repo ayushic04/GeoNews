@@ -40,30 +40,30 @@ Users can:
 
 The data flow diagram below illustrates the interaction between the key components of GeoNews:
 
-![Data Flow Diagram](/DataFlow.png)
+![Data Flow Diagram](assets/DataFlow.png)
 
 ---
 
 ## User Interface Visuals
 
 ### Home Page 
-![Home Page](Home.png)
+![Home Page](assets/Home.png)
 
 ### Filter By Date 
-![Date Filter](FilterByDate.gif)
+![Date Filter](assets/FilterByDate.gif)
 
 ### View Detailed News Summary of Pointers
-![View News](ViewNews.gif)
+![View News](assets/ViewNews.gif)
 
 ### Filter By Country 
-![Date Filter](FilterByCountry.gif)
+![Date Filter](assets/FilterByCountry.gif)
 
 ### General News 
 #### Any News for which we could not find a location, are stored under General News
-![Date Filter](/GeneralNews.png)
+![Date Filter](assets/GeneralNews.png)
 
 ### Map Styles
-![Date Filter](/MapStyles.gif)
+![Date Filter](assets/MapStyles.gif)
 
 ---
 
